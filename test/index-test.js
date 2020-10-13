@@ -3,8 +3,8 @@ const fs = require('fs')
 const jsdom = require('jsdom')
 const path = require('path')
 console.error("HALP!")
-console.log("I would be a logger.")
-console.warn("quiero hacer coding")
+console.log("I would be a logger")
+console.warn("HELLO!")
 
 
 describe('index', () => {
